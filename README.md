@@ -23,3 +23,33 @@ In the event of a tie, continue the game until the next corner.
 
 ### How to Decide who to Combine With
 Try to combine with an opponent that you would benefit from the most, and move more spaces. If two opponents agree to combine, that deal is set, and those players cannot change after they have agreed. Persuade your opponent on why they should combine with you and not someone else.
+
+## Movement Rules
+**Primary Colors**: Red, Yellow, Blue  
+**Secondary Colors**: Orange, Green, Violet  
+**Tertiary Colors**: Red Violet, Red Orange, Yellow Orange, Yellow Green, Blue Green, Blue Violet  
+**Wild Cards**: Black, White, Grey  
+
+**Secondary Colors**: +1 Spaces
+- Primary + Primary = Secondary
+  - EX: Red + Yellow = Orange
+**Tertiary Colors**: +2 Spaces
+- Primary + Secondary = Tertiary
+  - EX: Violet + Red = Red Violet
+
+White and Black color cards can be combined with any primary or secondary colors. White makes a color light, and black makes a color dark.
+- White/Black + Primary Color (EX: Light Red)
+  - Black/White Card Player: +3 Spaces
+  - Other Parties: +2
+- White/Black + Secondary Color (EX: Dark Violet)
+  - Black/White Card Player: +4 Spaces
+  - Other Parties: +3
+- White/Black cards MUST be played by themselves for +1 Spaces if not combined with anyone.
+- Hint: White/Black + Primary + Primary is Legal
+  - EX: Black + Red + Yellow = Dark Orange
+- Note: White and Black color cards CANNOT be saved in the bank.
+A grey card, a wild card, allows the player to 
+- Change into any primary or secondary color to combine
+- Cancel somebody's card by muddling the color (Gray + anything = bleh)  
+Note: All qualifying combinations are on the color wheel, you CANNOT combine the same colors. EX: Blue + Blue 
+
